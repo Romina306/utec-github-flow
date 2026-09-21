@@ -1,2 +1,3 @@
-Collaboration requires adaptability, trust, and continuous alignment among team members.
+# Collaboration Document
 
+Collaboration requires adaptability, trust, and continuous alignment among team members.
